@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もう二度と会えないといいね！",
+  "base_artist": "kaza",
+  "createdAt": "2025-12-03T14:14:25.332146Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう二度と会えないといいね!",
+      "artist": "kaza",
+      "has_synced": false,
+      "path": "select/pl_01_もう二度と会えないといいね!_kaza.txt"
+    }
+  ]
+}
